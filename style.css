@@ -35,6 +35,8 @@ main{
     background-color: #F1AA83;
     border: 3px solid black;
     border-radius: 30px;
+    width:50%;
+    text-align:center;
 }
 
 h1{
